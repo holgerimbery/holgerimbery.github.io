@@ -5,10 +5,10 @@ main {
 	color: #FAFAFA;
 }
 
-.icons-social a {
-	color: #FAFAFA;
+.iconrow a {
+	color: #FFFFFF;
 }
 
-.icons-social a svg path{
-	fill: #FAFAFA;
+.iconrow a svg path{
+	fill: #FFFFFF;
 }
