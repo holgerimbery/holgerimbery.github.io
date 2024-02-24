@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/the-cognitiveservices-ninja/the-cognitiveservices-ninja.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/the-cognitiveservices-ninja/the-cognitiveservices-ninja.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/holgerimbery/holgerimbery.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/holgerimbery/holgerimbery.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## landing page with social icons
-cname www.cognitiveservices.ninja
+cname holger.imbery.name
